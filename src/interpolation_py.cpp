@@ -1,6 +1,6 @@
 #include <pybind11/pybind11.h>
 //#include "Eigen/Dense"
-//#include <pybind11/eigen.h>
+#include <pybind11/eigen.h>
 #include "interpolation.hpp"
 //#include "interpolation.hpp"
 /*
